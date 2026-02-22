@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parthdoshi404-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthdoshi404)
 [![Email](https://img.shields.io/badge/Email-parthdoshi404@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:parthdoshi404@gmail.com)
-[![Website](https://img.shields.io/badge/Website-alcesozdst.com-00FF00?style=flat&logo=googlechrome&logoColor=white)](https://alcesozdst.com)
+[![Website](https://img.shields.io/badge/Website-parthdoshi.me-00FF00?style=flat&logo=googlechrome&logoColor=white)](https://parthdoshi.me)
 
 </div>
 
