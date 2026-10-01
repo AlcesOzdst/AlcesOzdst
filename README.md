@@ -20,13 +20,13 @@ Electronics & Communication Engineering (AI & ML) @ MIT-WPU, Pune
 
 ### ⚡ About Me
 
-I come at security from the **hardware side** — reading datasheets, soldering test points, tracing signals with a logic analyzer, and dumping flash chips to analyze the firmware behind them. My research lives at the intersection of embedded microcontrollers, radio interfaces, and defensive architecture.
+I come at security from the **hardware side** - reading datasheets, soldering test points, tracing signals with a logic analyzer, and dumping flash chips to analyze the firmware behind them. My research lives at the intersection of embedded microcontrollers, radio interfaces, and defensive architecture.
 
-- 🎓 **Undergrad**: Third-year Electronics & Communication Engineering (AI & ML) at **MIT-WPU, Pune** *(Expected Grad: 2028)*.
-- 🛡️ **Leadership**: **President @ Hack-X**, MIT-WPU's campus cybersecurity club — orchestrating CTFs, offensive/defensive workshops, and hardware hacking sessions.
-- 💼 **Experience**: Former **R&D Intern at PHN Technology**, building and testing embedded IoT prototypes and firmware attack surfaces.
-- 🏆 **CTF & Competitions**: **2nd Runner-up at HackMITWPU'25** (Team PARAM); competed at NCIIPC-AICTE Pentathon, DEFCON Pune, CyberVault Connect, and Smart India Hackathon.
-- 🎯 **Looking Ahead**: Actively seeking **Embedded / IoT / Firmware Security Internships (2026–2027)**.
+- **Undergrad**: Third-year Electronics & Communication Engineering (AI & ML) at **MIT-WPU, Pune** *(Expected Grad: 2028)*.
+- **Leadership**: **President @ Hack-X**, MIT-WPU's campus cybersecurity club - orchestrating CTFs, offensive/defensive workshops, and hardware hacking sessions.
+- **Experience**: Former **R&D Intern at PHN Technology**, building and testing embedded IoT prototypes and firmware attack surfaces.
+- **CTF & Competitions**: Competed at NCIIPC-AICTE Pentathon, DEFCON Pune, CyberVault Connect, and Smart India Hackathon.
+- **Looking Ahead**: Actively seeking **Embedded / IoT / Firmware Security Internships (2026–2027)**.
 
 ---
 
@@ -45,7 +45,7 @@ I come at security from the **hardware side** — reading datasheets, soldering 
 
 ---
 
-### 🛠️ Featured Projects & Security Research
+### Featured Projects & Security Research
 
 | Project | Description | Stack / Focus | Link |
 | :--- | :--- | :--- | :---: |
@@ -58,15 +58,16 @@ I come at security from the **hardware side** — reading datasheets, soldering 
 
 ---
 
-### 🎯 Security Disclosures & Milestones
+### Security Disclosures & Milestones
 
 - **Responsible Disclosure (University ERP IDOR)**: Identified and reported an Insecure Direct Object Reference (IDOR) flaw in the university ERP portal via student PRN parameter manipulation. Prepared a full CVSS v3.1 report and collaborated with administration to patch the vulnerability.
-- **Bug Bounty Findings**: Uncovered and reported CORS misconfigurations, exposed admin panels leading to account takeovers, and GraphQL introspection vulnerabilities across target programs (Under Armour, Whatnot via HackerOne).
-- **Team PARAM (HackMITWPU'25)**: Secured 2nd runner-up in a competitive 24-hour cybersecurity CTF track.
+- **Bug Bounty & Security Findings**: Uncovered and reported CORS misconfigurations, exposed admin panels leading to account takeover, and GraphQL introspection vulnerabilities across target programs (Under Armour, Whatnot via HackerOne).
+- **Smart India Hackathon (SIH 2025) Top Finalist**: Project Omnis — AI-driven threat prediction and attack path forecasting with a 94% true-positive rate.
+- **HackMITWPU'25 Track Host**: Hosted a track at HackMITWPU'25, contributing to the execution of a campus cybersecurity competition.
 
 ---
 
-### 🧰 Technical Arsenal
+### Technical Arsenal
 
 <table>
   <tr>
@@ -97,7 +98,7 @@ I come at security from the **hardware side** — reading datasheets, soldering 
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlcesOzdst&show_icons=true&bg_color=0E0A06&title_color=5FCE86&text_color=E9DFC9&icon_color=5FCE86&border_color=2A2218&hide_border=false&count_private=true" alt="Parth Doshi's GitHub Stats" height="165" />
@@ -107,12 +108,12 @@ I come at security from the **hardware side** — reading datasheets, soldering 
 
 ---
 
-### ☕ Off the Clock
+### Off the Clock
 
 When I'm not probing pins, reverse-engineering firmware, or working through CTFs:
-- 🏃 **GPS Logging**: Long, slow runs with a GPX logger tracing Baner and Aundh.
-- 🎧 **Audio Gear**: Chi-fi IEM enthusiast with an ever-expanding rotation.
-- 🎙️ **Debating**: Collegiate debate — *taking apart an argument exercises the exact same muscle as taking apart a binary.*
+- 🔬 **Firmware Teardowns**: ESP32 flash dumping over UART and Ghidra inspection.
+- ⌚ **Mechanical Horology**: Symmetrical skeleton movements with twin barrels and 28,800 VPH escapements.
+- ✏️ **Pencil Sketching**: Studies observing physical structures, perspective, and form.
 
 ---
 
